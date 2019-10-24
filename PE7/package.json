@@ -1,0 +1,15 @@
+{
+  "name": "pe7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joonas Heinonen",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.6"
+  }
+}
